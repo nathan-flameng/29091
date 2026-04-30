@@ -1,0 +1,16 @@
+.container {
+  width: 90%;
+  max-width: 900px;
+  margin: 40px auto;
+}
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.card {
+  width: 260px;
+  flex-grow: 1;
+}
